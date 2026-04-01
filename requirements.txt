@@ -1,0 +1,8 @@
+# Requirements for Contact Management System
+
+# No external libraries required
+# Uses built-in Python modules:
+# json
+# re
+# datetime
+# csv

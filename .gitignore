@@ -1,0 +1,15 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Data files (generated)
+contacts_data.json
+contacts.csv
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
